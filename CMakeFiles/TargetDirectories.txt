@@ -1,0 +1,4 @@
+C:/Users/Ivanov/Desktop/Cmake/CMakeFiles/main.dir
+C:/Users/Ivanov/Desktop/Cmake/CMakeFiles/test.dir
+C:/Users/Ivanov/Desktop/Cmake/CMakeFiles/ALL_BUILD.dir
+C:/Users/Ivanov/Desktop/Cmake/CMakeFiles/ZERO_CHECK.dir
